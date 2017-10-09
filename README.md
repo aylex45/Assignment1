@@ -1,3 +1,3 @@
-Name: Alex Cooalla Jr. <br />
+Name: Alex Coalla Jr. <br />
 FSUID: ac17ac
 
